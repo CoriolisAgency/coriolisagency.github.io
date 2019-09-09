@@ -13,7 +13,16 @@ body {
   font-family: 'Titillium Web', sans-serif;
 }
 section:before {
-    height: 90px;
-    content: "";
-    display:block;
+  height: 90px;
+  content: "";
+  display:block;
+}
+.lightbox {
+  background: rgba(0, 0, 0, 0.5);
+}
+.bg-dark {
+  background-color: black !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
 }

@@ -9,13 +9,11 @@ body {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
 }
 section:before {
     height: 90px;
     content: "";
     display:block;
-}
-body {
-    color: white;
-    font-family: 'Titillium Web', sans-serif;
 }

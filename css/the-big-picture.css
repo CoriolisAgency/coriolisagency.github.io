@@ -26,3 +26,6 @@ section:before {
 .navbar-dark .navbar-nav .nav-link {
   color: white;
 }
+.mt-5, .my-5 {
+  margin-top: .5rem !important;
+}
